@@ -1,0 +1,1021 @@
+# Logfile created on Mon Jan 18 16:11:28 +0800 2010 by /
+Will use local index.
+Will use local index.
+Will use local index.
+Will use local index.
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] rebuild index with models: []
+[user] reopening index at E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+Will use local index.
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+Will use local index.
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+Will use local index.
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: a
+-->+() +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: a
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: a
+-->+() +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: a
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: a
+-->+() +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: a
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: a
+-->+() +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: a
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 2
+-->+(name:2 age:2) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 2
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 546
+-->+(name:546 age:546) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "546", age: 34, id: 4>]
+Query: 546
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 32
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 32
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 32
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 32
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 32
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 546
+-->+(name:546 age:546) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "546", age: 34, id: 4>]
+Query: 546
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 54
+-->+(name:54 age:54) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "如3他", age: 54, id: 5>]
+Query: 54
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 546
+-->+(name:546 age:546) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "546", age: 34, id: 4>]
+Query: 546
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 33
+-->+(name:33 age:33) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 33
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 3433
+-->+(name:3433 age:3433) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "3433", age: 3243, id: 6>]
+Query: 3433
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 3243
+-->+(name:3243 age:3243) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "3433", age: 3243, id: 6>]
+Query: 3243
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 34
+-->+(name:34 age:34) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "546", age: 34, id: 4>]
+Query: 34
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 34
+-->+(name:34 age:34) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "546", age: 34, id: 4>]
+Query: 34
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 54
+-->+(name:54 age:54) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "如3他", age: 54, id: 5>]
+Query: 54
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 32
+-->+(name:32 age:32) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 2 results from AR: [#<User name: "32", age: 11, id: 1>, #<User name: "45土归土", age: 32, id: 7>]
+Query: 32
+total hits: 2, results delivered: 2
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 谔谔4
+-->+(name:"� � 4"~2 age:"� � 4"~2) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "谔谔4 ", age: 11243, id: 2>]
+Query: 谔谔4
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(name: string, age: integer, id: integer)]
+options: {:limit=>:all, :page=>nil, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User name: "32", age: 11, id: 1>]
+Query: 11
+total hits: 1, results delivered: 1
+Will use local index.
+Will use local index.
+Will use local index.
+Will use local index.
+using index in E:/Aptana Studio 1.5/workspace/ferret/index/development/user
+[user] register class User with index user
+[user] default field list for index user: ["name", "age"]
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 1, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 12
+-->+(name:12 age:12) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User id: 1, name: "eee", age: 12, created_at: "2010-01-19 01:29:17", updated_at: "2010-01-19 01:29:17">]
+Query: 12
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: eee
+-->+(name:eee age:eee) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User id: 1, name: "eee", age: 12, created_at: "2010-01-19 01:29:17", updated_at: "2010-01-19 01:29:17">]
+Query: eee
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: eee
+-->+(name:eee age:eee) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User id: 1, name: "eee", age: 12, created_at: "2010-01-19 01:29:17", updated_at: "2010-01-19 01:29:17">]
+Query: eee
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 12
+-->+(name:12 age:12) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User id: 1, name: "eee", age: 12, created_at: "2010-01-19 01:29:17", updated_at: "2010-01-19 01:29:17">]
+Query: 12
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: eee
+-->+(name:eee age:eee) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 1 results from AR: [#<User id: 1, name: "eee", age: 12, created_at: "2010-01-19 01:29:17", updated_at: "2010-01-19 01:29:17">]
+Query: eee
+total hits: 1, results delivered: 1
+[user] register class User with index user
+[user] refusing re-registration of class User
+index_for [User(id: integer, name: string, age: integer, created_at: datetime, updated_at: datetime)]
+options: {:page=>nil, :limit=>:all, :offset=>0}
+ar_options: {}
+[user] stored_fields: nil
+[user] query: 11
+-->+(name:11 age:11) +(class_name:User)
+[user] now retrieving records from AR with options: {}
+[user] 0 results from AR: []
+Query: 11
+total hits: 0, results delivered: 0
